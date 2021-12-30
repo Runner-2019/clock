@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/myImages">
+        <file>images/clock.png</file>
+        <file>images/file.png</file>
+        <file>images/setting.png</file>
+        <file>images/user.png</file>
+    </qresource>
+</RCC>
